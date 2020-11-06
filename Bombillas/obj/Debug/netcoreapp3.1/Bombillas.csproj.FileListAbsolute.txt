@@ -1,0 +1,13 @@
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\bin\Debug\netcoreapp3.1\Bombillas.exe
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\bin\Debug\netcoreapp3.1\Bombillas.deps.json
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\bin\Debug\netcoreapp3.1\Bombillas.runtimeconfig.json
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\bin\Debug\netcoreapp3.1\Bombillas.runtimeconfig.dev.json
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\bin\Debug\netcoreapp3.1\Bombillas.dll
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\bin\Debug\netcoreapp3.1\Bombillas.pdb
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\obj\Debug\netcoreapp3.1\Bombillas.csprojAssemblyReference.cache
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\obj\Debug\netcoreapp3.1\Bombillas.AssemblyInfoInputs.cache
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\obj\Debug\netcoreapp3.1\Bombillas.AssemblyInfo.cs
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\obj\Debug\netcoreapp3.1\Bombillas.csproj.CoreCompileInputs.cache
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\obj\Debug\netcoreapp3.1\Bombillas.dll
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\obj\Debug\netcoreapp3.1\Bombillas.pdb
+C:\Users\DELL09\source\repos\Bombillas\Bombillas\obj\Debug\netcoreapp3.1\Bombillas.genruntimeconfig.cache
